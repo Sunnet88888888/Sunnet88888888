@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1440" height="900" alt="Снимок экрана 2026-07-15 в 12 10 17" src="https://github.com/user-attachments/assets/d6688c1f-98a2-4690-8950-ad8df319c56d" />
+<img width="402" height="400" alt="Снимок экрана 2026-07-15 в 04 48 20" src="https://github.com/user-attachments/assets/08f6bf55-f365-48f4-859d-12739ac118cb" />
+
 
 # Sunnet Berdinov
 
