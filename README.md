@@ -1,68 +1,63 @@
-# 👨‍💻 Sunnet Berdinov
-### Backend Software Engineer • Building Scalable Infrastructure
+<div align="center">
 
-```json
-{
-  "education": ["Kazan Federal University (Computer Science)", "School 21"],
-  "philosophy": "First solve the problem. Then write the code.",
-  "status": "Actively building & exploring distributed systems"
-}
-```
+# Sunnet Berdinov
 
----
+### Backend Software Engineer • Python Developer • Robotics Enthusiast
 
-### 🛠️ CORE TECH ENGINE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Scalable+Systems;Learning+Something+New+Every+Day" />
 
-```yaml
-Languages:
-  - Python
-  - SQL
-  - Bash
-
-Frameworks & Tools:
-  - FastAPI
-  - PostgreSQL
-  - Redis
-  - Docker
-  - Linux
-  - ROS 2 (Robotics)
-```
+</div>
 
 ---
 
-### 🛰️ CURRENT MISSIONS
+## About Me
 
-* **📚 Online Learning Platform**
-  * `Role:` Lead Backend Architect
-  * `Stack:` Python, FastAPI, PostgreSQL, Redis
-  * `Focus:` Designing clean architecture, data consistency, and reliable APIs.
+🎓 **2nd year student** at **Kazan Federal University**
 
-* **🌐 Distributed Systems Labs**
-  * `Focus:` Studying fault tolerance, scalability, and system state consensus.
+📖 Program: **Digital Products Development** 
 
-* **🤖 Autonomous Robotics**
-  * `Focus:` Robotics operating system (ROS 2) integration and automated logic.
+🏫 Student of **School 21**
+
+🤖 Member of the **Intelligent Robotic Systems Laboratory**
+
+💻 Passionate about backend engineering, distributed systems, clean architecture and robotics.
 
 ---
 
-### 📊 SYSTEM PERFORMANCE
+## ⚡ Tech Stack
 
-<!-- Используем форк github-stats-extended, он работает стабильно и быстро -->
-<p align="left">
-  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="165" src="https://vercel.app" alt="Top Languages" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,github,vscode,pycharm"/>
+
 </p>
 
 ---
 
-### 📞 ESTABLISH CONNECTION
+## 🧠 Currently Learning
 
-```bash
-\$ curl -X CONNECT https://sunnet.dev
-```
-
-[![](https://shields.io🔗_Написать_сообщение-0088cc?style=flat-square)](https://t.me)
-[![](https://shields.io🔗_Связаться-0077b5?style=flat-square)](https://linkedin.com)
+- ⚙️ Distributed Systems
+- 🏗 Clean Architecture
+- 🔥 High Load Backend
+- 🤖 ROS2
+- 🧩 Microservices
 
 ---
-<p align="center"><sub>⚡ Powered by Clean Code and Coffee</sub></p>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎓 Online School | Full educational platform built with FastAPI |
+| 📄 AI Document Verification | AI-powered document verification backend |
+| 🛒 Ecommerce Backend | Modern asynchronous ecommerce API |
+| 🤖 Robotics | ROS2 + Gazebo projects |
+| ⚙️ School21 Projects | C, Linux & Algorithms |
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Launch online school
+
+---
