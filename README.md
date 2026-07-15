@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sunnet Berdinov
+# 👋 Sunnet Berdinov
 
 ### Backend Software Engineer • Python Developer • Robotics Enthusiast
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 **2nd year student** at **Kazan Federal University**
 
-📖 Program: **Digital Products Development** *(English Program)*
+📖 Program: **Digital Products Development** 
 
 🏫 Student of **School 21**
 
@@ -40,7 +40,6 @@
 - 🏗 Clean Architecture
 - 🔥 High Load Backend
 - 🤖 ROS2
-- ☁️ DevOps
 - 🧩 Microservices
 
 ---
@@ -49,9 +48,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🎓 Online School | Full educational platform built with FastAPI |
-| 📄 AI Document Verification | AI-powered document verification backend |
-| 🛒 Ecommerce Backend | Modern asynchronous ecommerce API |
+| 🎓 Online School | Full educational platform |
 | 🤖 Robotics | ROS2 + Gazebo projects |
 | ⚙️ School21 Projects | C, Linux & Algorithms |
 
@@ -79,49 +76,14 @@
 
 ---
 
-## 🏆 Achievements
-
-🏫 School 21 Student
-
-🤖 Intelligent Robotics Laboratory
-
-💡 Building personal startup
-
-📚 Constantly learning new technologies
-
-🌍 Fluent in English technical documentation
-
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Become Backend Software Engineer
-- ☁️ Learn Kubernetes
-- ⚙️ Build distributed systems
-- 🤖 Deep dive into Robotics
-- 🌍 Contribute to Open Source
+- 🚀 To launch online school
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
