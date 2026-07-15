@@ -1,63 +1,76 @@
 <div align="center">
 
-# Sunnet Berdinov
+# 👋 Привет, я Суннет (Sunnet Berdinov)
 
-Backend Software Engineer
+### 🚀 Backend Software Engineer | Строю масштабируемые и надежные системы
 
-<br>
+Путь к коду: **Казанский федеральный университет** (Computer Science) & **Школа 21** 🎓
 
-`Python` • `FastAPI` • `PostgreSQL` • `Docker` • `Redis`
+[![](https://shields.io)](https://t.me) <!-- ЗАМЕНИ НА СВОЙ ТЕЛЕГРАМ -->
+[![](https://shields.io)](https://linkedin.com) <!-- ЗАМЕНИ НА СВОЙ LINKEDIN -->
 
-<br>
+---
 
-Building scalable backend systems.
+⚡ *“First, solve the problem. Then, write the code.”* ⚡
 
 </div>
 
+## 🛠️ Мой Технологический Стек
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+## 🔭 Текущий фокус и проекты
+
+- 📚 **Online Learning Platform** — Проектирую архитектуру платформы онлайн-обучения с нуля.
+- 🌐 **Distributed Systems** — Изучаю паттерны распределенных систем, отказоустойчивость и Clean Architecture.
+- 🤖 **Robotics (ROS 2)** — Экспериментирую с робототехникой и программированием автономных систем.
+
 ---
 
-### About
+## 📊 GitHub Активность
 
-I'm a Computer Science student at **Kazan Federal University** and a student at **School 21**.
-
-Currently building an **Online Learning Platform** while exploring **distributed systems**, **clean architecture**, and **robotics**.
-
-I enjoy designing systems that remain simple today and scalable tomorrow.
-
----
-
-### Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux"/>
-
+<p align="center">
+  <img height="180" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180" src="https://vercel.app" alt="Top Languages" />
 </p>
 
----
-
-### Current Focus
-
-- Online Learning Platform
-- Distributed Systems
-- Robotics (ROS 2)
-
----
-
-### Stats
-
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunnet88888888&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnet88888888&layout=compact&hide_border=true&theme=transparent"/>
-
+<p align="center">
+  <img width="100%" src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-
-*"First solve the problem. Then write the code."*
-
+  <img src="https://vercel.app" width="100%"/>
 </div>
