@@ -1,87 +1,68 @@
-<div align="center">
-  <!-- Анимированный неоновый баннер-приветствие -->
-  <img src="https://vercel.app" width="100%" />
-  
-  <p align="center">
-    <code>⚡ SYSTEM STATUS: ACTIVE</code> 
-    <code>• BACKEND ENGINEER</code> 
-    <code>• ARCHITECT IN TRAINING</code>
-  </p>
+# 👨‍💻 Sunnet Berdinov
+### Backend Software Engineer • Building Scalable Infrastructure
 
-  <!-- Футуристичные неоновые бейджи для связи -->
-  <a href="https://t.me" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
-</div>
-
-<br>
-
-<img src="https://githubusercontent.com" width="100%" />
-
-## 🧬 CORE SPECIFICATIONS (ОБО МНЕ)
-
-```🌐 ARCHITECTURE
-📂 KAZAN FEDERAL UNIVERSITY // Computer Science Student
-📂 SCHOOL 21                // Peer-to-Peer Engineering School
-📂 CURRENT FOCUS            // Distributed Systems & Clean Architecture
+```json
+{
+  "education": ["Kazan Federal University (Computer Science)", "School 21"],
+  "philosophy": "First solve the problem. Then write the code.",
+  "status": "Actively building & exploring distributed systems"
+}
 ```
 
-> *"First solve the problem. Then write the code."* — Философия разработки, зашитая в ДНК.
+---
 
-<br>
+### 🛠️ CORE TECH ENGINE
 
-## 🛠️ TECH STACK & ENGINE (ТЕХНОЛОГИИ)
+```yaml
+Languages:
+  - Python
+  - SQL
+  - Bash
 
-<div align="center">
-  <!-- Кастомные неоновые плашки для ключевых навыков -->
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-  <img src="https://shields.io" height="26"/>
-</div>
+Frameworks & Tools:
+  - FastAPI
+  - PostgreSQL
+  - Redis
+  - Docker
+  - Linux
+  - ROS 2 (Robotics)
+```
 
-<br>
+---
 
-<img src="https://githubusercontent.com" width="100%" />
+### 🛰️ CURRENT MISSIONS
 
-## 🛰️ CURRENT MISSIONS (ПРОЕКТЫ В РАЗРАБОТКЕ)
-
-* **⚡ E-Learning Infrastructure**
-  * `STATUS:` В процессе сборки
-  * `TECH:` Python, FastAPI, PostgreSQL, Redis
-  * `GOAL:` Создание отказоустойчивой платформы онлайн-обучения с чистой архитектурой.
+* **📚 Online Learning Platform**
+  * `Role:` Lead Backend Architect
+  * `Stack:` Python, FastAPI, PostgreSQL, Redis
+  * `Focus:` Designing clean architecture, data consistency, and reliable APIs.
 
 * **🌐 Distributed Systems Labs**
-  * `STATUS:` Исследование & Эксперименты
-  * `GOAL:` Изучение масштабирования, консенсусов и построения систем, которые не падают под нагрузкой.
+  * `Focus:` Studying fault tolerance, scalability, and system state consensus.
 
 * **🤖 Autonomous Robotics**
-  * `STATUS:` R&D (НИОКР)
-  * `TECH:` ROS 2, Linux
-  * `GOAL:` Программирование логики и взаимодействия робототехнических комплексов.
+  * `Focus:` Robotics operating system (ROS 2) integration and automated logic.
 
-<br>
+---
 
-<img src="https://githubusercontent.com" width="100%" />
+### 📊 SYSTEM PERFORMANCE
 
-## 📊 SYSTEM METRICS (АНАЛИТИКА)
-
-<p align="center">
-  <!-- Кастомные черно-неоновые графики без рамок, сливающиеся с фоном GitHub -->
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
+<!-- Используем форк github-stats-extended, он работает стабильно и быстро -->
+<p align="left">
+  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="165" src="https://vercel.app" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- График коммитов в том же киберпанк стиле -->
-  <img width="100%" src="https://herokuapp.com" />
-</p>
+---
 
-<br>
+### 📞 ESTABLISH CONNECTION
 
-<!-- Анимированный радарный футер-код -->
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
+```bash
+\$ curl -X CONNECT https://sunnet.dev
+```
+
+[![](https://shields.io🔗_Написать_сообщение-0088cc?style=flat-square)](https://t.me)
+[![](https://shields.io🔗_Связаться-0077b5?style=flat-square)](https://linkedin.com)
+
+---
+<p align="center"><sub>⚡ Powered by Clean Code and Coffee</sub></p>
