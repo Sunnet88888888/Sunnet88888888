@@ -51,13 +51,12 @@
 | 🎓 Online School | Full educational platform built with FastAPI |
 | 📄 AI Document Verification | AI-powered document verification backend |
 | 🛒 Ecommerce Backend | Modern asynchronous ecommerce API |
-| 🤖 Robotics | ROS2 + Gazebo projects |
 | ⚙️ School21 Projects | C, Linux & Algorithms |
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Launch online school
+- 🚀 To launch online school
 
 ---
