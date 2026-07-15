@@ -1,62 +1,190 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sunnet Berdinov</title>
 
-# Sunnet Berdinov
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-### Backend Software Engineer • Python Developer • Robotics Enthusiast
+body {
+    background: #020617;
+    color: white;
+    font-family: "Fira Code", monospace;
+    overflow-x: hidden;
+}
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Scalable+Systems;Learning+Something+New+Every+Day" />
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content {
+    padding: 40px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    color: #60a5fa;
+    margin-top: 15px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #cbd5e1;
+}
+</style>
+
+</head>
+
+<body>
+
+<canvas id="stars"></canvas>
+
+
+<div class="container">
+
+<div class="content">
+
+<h1>
+Sunnet Berdinov
+</h1>
+
+<h2>
+Backend Software Engineer • Python Developer • Robotics Enthusiast
+</h2>
+
+<p>
+Building scalable systems, AI solutions and intelligent robots.
+</p>
 
 </div>
 
----
+</div>
 
-## About Me
 
-🎓 **2nd year student** at **Kazan Federal University**
+<script>
 
-📖 Program: **Digital Products Development** 
+const canvas = document.getElementById("stars");
+const ctx = canvas.getContext("2d");
 
-🏫 Student of **School 21**
 
-🤖 Member of the **Intelligent Robotic Systems Laboratory**
+let stars = [];
 
-💻 Passionate about backend engineering, distributed systems, clean architecture and robotics.
+function resize(){
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+}
 
----
+window.addEventListener("resize", resize);
+resize();
 
-## ⚡ Tech Stack
 
-<p align="center">
+class Star {
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,github,vscode,pycharm"/>
+    constructor(){
 
-</p>
+        this.x = Math.random() * canvas.width;
+        this.y = Math.random() * canvas.height;
 
----
+        this.size = Math.random() * 2;
 
-## 🧠 Currently Learning
+        this.speed = Math.random() * 0.4 + 0.1;
 
-- ⚙️ Distributed Systems
-- 🏗 Clean Architecture
-- 🔥 High Load Backend
-- 🤖 ROS2
-- 🧩 Microservices
+        this.opacity = Math.random();
 
----
+    }
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎓 Online School | Full educational platform built with FastAPI |
-| 📄 AI Document Verification | AI-powered document verification backend |
-| 🛒 Ecommerce Backend | Modern asynchronous ecommerce API |
-| ⚙️ School21 Projects | C, Linux & Algorithms |
+    update(){
 
----
+        this.y += this.speed;
 
-## 🎯 2026 Goals
+        if(this.y > canvas.height){
+            this.y = 0;
+            this.x = Math.random() * canvas.width;
+        }
 
-- 🚀 To launch online school
+        this.opacity += 0.01;
 
----
+        if(this.opacity > 1)
+            this.opacity = 0;
+
+    }
+
+
+    draw(){
+
+        ctx.beginPath();
+
+        ctx.fillStyle =
+        `rgba(255,255,255,${this.opacity})`;
+
+        ctx.arc(
+            this.x,
+            this.y,
+            this.size,
+            0,
+            Math.PI*2
+        );
+
+        ctx.fill();
+
+    }
+
+}
+
+
+
+for(let i=0;i<250;i++){
+    stars.push(new Star());
+}
+
+
+
+function animate(){
+
+    ctx.clearRect(
+        0,
+        0,
+        canvas.width,
+        canvas.height
+    );
+
+
+    stars.forEach(star=>{
+        star.update();
+        star.draw();
+    });
+
+
+    requestAnimationFrame(animate);
+
+}
+
+
+animate();
+
+</script>
+
+
+</body>
+</html>
